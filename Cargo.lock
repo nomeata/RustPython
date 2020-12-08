@@ -1120,11 +1120,10 @@ dependencies = [
 
 [[package]]
 name = "lz4_flex"
-version = "0.5.1"
+version = "0.6.1"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "50e76831e3b044ebf7008b17d6083e4dda6d8a9f6839387d7a81fad549417f57"
+checksum = "4c53a7600c134cb724ad22655c4c52faf327722fb16ca74279e818deff25817e"
 dependencies = [
- "byteorder",
  "quick-error",
 ]
 
